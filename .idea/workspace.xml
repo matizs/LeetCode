@@ -31,7 +31,14 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.LeetCode_5_Longest_PalindromicSubString">
+  <component name="RunManager" selected="Application.LeetCode_11">
+    <configuration name="LeetCode_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_11" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LeetCode_3_Longest_SubString_Without_repeating_Characters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_3_Longest_SubString_Without_repeating_Characters" />
       <module name="LeetCode" />
@@ -48,6 +55,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeetCode_11" />
         <item itemvalue="Application.LeetCode_5_Longest_PalindromicSubString" />
         <item itemvalue="Application.LeetCode_3_Longest_SubString_Without_repeating_Characters" />
       </list>

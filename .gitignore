@@ -2,7 +2,9 @@
 /build/
 /bin/
 target/
-   
+
+.idea/*
+.gitignore
 # OS Files #
 .DS_Store
    
