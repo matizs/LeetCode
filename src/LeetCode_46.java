@@ -18,7 +18,7 @@ public class LeetCode_46 {
             if(visited[i]) continue;
             visited[i] = true;
             result.add(nums[i]);
-            Permutation(nums, idx+1);
+            Permutation(nums, idx+1, result);
             visited[i] = false;
             result.remove(result.size() - 1);
         }
